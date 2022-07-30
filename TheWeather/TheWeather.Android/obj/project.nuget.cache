@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "35qPwck5H1kA9Fd2Sj/0W2bXYlddYF8bchj+4BT6dOqCgml5E+ErDKV0jpJ71msARLfbczvT88+WGbqi7Uo1AQ==",
+  "dgSpecHash": "bkZ//fIHg3q0G3Y72PTOH5/DmHGvQ+UNIFJrMcgryh6cXMRapH3M+JgEqRpR9ULHrK6lk+DgLzgJa72HXbd+fQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TheWeather\\TheWeather\\TheWeather.Android\\TheWeather.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

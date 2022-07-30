@@ -90,3 +90,5 @@ C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\obj\iPhoneSim
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\TheWeather.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Newtonsoft.Json.dll.ReferenceCopyLocalPaths.stamp

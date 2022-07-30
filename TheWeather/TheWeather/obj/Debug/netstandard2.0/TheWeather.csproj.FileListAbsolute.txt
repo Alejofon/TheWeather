@@ -13,3 +13,6 @@ C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstan
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\refint\TheWeather.dll
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.pdb
 C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\ref\TheWeather.dll
+C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\Xamarin.iOS.dll
+C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\bin\Debug\netstandard2.0\Xamarin.iOS.xml
+C:\Users\Usuario\source\repos\TheWeather\TheWeather\TheWeather\obj\Debug\netstandard2.0\TheWeather.csproj.CopyComplete
