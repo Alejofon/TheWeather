@@ -4,9 +4,9 @@
              x:Class="TheWeather.Views.WeatherPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <SearchBar SearchCommand="{Binding SearchCommand}" x:Name="search" SearchCommandParameter="{Binding Text, Source={x:Reference search}}"></SearchBar>
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -15,7 +15,10 @@ namespace TheWeather.Views
         public WeatherPage()
         {
             InitializeComponent();
-            BindingContext = new TheWeatherViewModel();
+            BindingContext = new WeatherViewModel();
+            
         }
+
+       
     }
 }
