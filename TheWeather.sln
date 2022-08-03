@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeather.Android", "TheWe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeather.iOS", "TheWeather\TheWeather.iOS\TheWeather.iOS.csproj", "{636E2A9D-0F78-400C-9C7C-BDFD8BFDFF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeather", "TheWeather\TheWeather\TheWeather.csproj", "{F1338B12-622E-4593-B8F2-EF81DD0576DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheWeather", "TheWeather\TheWeather\TheWeather.csproj", "{F1338B12-622E-4593-B8F2-EF81DD0576DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
